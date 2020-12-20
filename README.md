@@ -1,2 +1,2 @@
 # Multiple-Functions
-A variety of functions that perform small number manipulation tasks
+A variety of functions that perform number manipulation tasks
