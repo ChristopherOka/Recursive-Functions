@@ -1,2 +1,2 @@
 # Multiple-Functions
-A variety of functions that perform number manipulation tasks
+A variety of recursive functions that perform number manipulation tasks
