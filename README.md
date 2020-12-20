@@ -1,4 +1,4 @@
-# Multiple-Functions
+# Recursive-Functions
 A variety of recursive functions that perform number manipulation tasks
 
 ## backwards Function: 
