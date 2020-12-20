@@ -1,5 +1,5 @@
 # Recursive-Functions
-A variety of recursive functions that perform number manipulation tasks
+A variety of recursive functions that perform number and string manipulation tasks
 
 ## backwards Function: 
 
